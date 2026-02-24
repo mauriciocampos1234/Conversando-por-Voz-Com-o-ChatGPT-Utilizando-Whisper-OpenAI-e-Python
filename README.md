@@ -18,7 +18,7 @@ E para fechar com chave de ouro ✨, ainda utilizamos o Google Text-To-Speech (g
 
 ---
 <p align="center">
-## 🖼️ Exibindo a Imagem do Projeto
+🖼️ Exibindo a Imagem do Projeto
 </p>
 <p align="center">
   <img src="image/desafio.png" width="600">
