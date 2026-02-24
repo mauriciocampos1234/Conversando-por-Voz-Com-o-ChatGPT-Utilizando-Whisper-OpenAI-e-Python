@@ -17,9 +17,9 @@ Utilizando o modelo avançado de reconhecimento de fala Whisper e a API do ChatG
 E para fechar com chave de ouro ✨, ainda utilizamos o Google Text-To-Speech (gTTS) para converter a resposta do ChatGPT novamente em voz, completando o ciclo de comunicação de forma elegante e funcional 😉.
 
 ---
-
+<p align="center">
 ## 🖼️ Exibindo a Imagem do Projeto
-
+</p>
 <p align="center">
   <img src="image/desafio.png" width="600">
 </p>
