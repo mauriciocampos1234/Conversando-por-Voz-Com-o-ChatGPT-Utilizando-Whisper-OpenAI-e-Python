@@ -20,11 +20,7 @@ E para fechar com chave de ouro ✨, ainda utilizamos o Google Text-To-Speech (g
 
 ## 🖼️ Exibindo a Imagem do Projeto
 
-Caso a imagem `desafio.png` esteja dentro da pasta raiz chamada `image`, utilize o código abaixo:
-
-```python
-from IPython.display import Image, display
-
+```
 display(Image(filename='image/desafio.png'))
 ```
 
