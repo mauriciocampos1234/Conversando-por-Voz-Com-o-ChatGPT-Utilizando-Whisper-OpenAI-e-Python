@@ -1,4 +1,4 @@
-## Conversando-por-Voz-Com-o-ChatGPT-Utilizando-Whisper-OpenAI-e-Python
+## Conversando por Voz Com o ChatGPT Utilizando Whisper OpenAI e Python
 
 # 🎙️ Projeto: Conversa Multi-Idiomas por Voz com ChatGPT
 
