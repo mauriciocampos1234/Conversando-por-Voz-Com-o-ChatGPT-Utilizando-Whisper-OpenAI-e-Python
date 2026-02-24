@@ -20,7 +20,9 @@ E para fechar com chave de ouro ✨, ainda utilizamos o Google Text-To-Speech (g
 
 ## 🖼️ Exibindo a Imagem do Projeto
 
-display(Image(filename='image/desafio.png'))
+<p align="center">
+  <img src="image/desafio.png" width="600">
+</p>
 
 ---
 
